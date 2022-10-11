@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Docsify-Guide</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="description" content="Description">
+    <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+</head>
+
+<body>
+    <div id="app">loading...</div>
+    <script>
+        window.$docsify = {
+            name: 'mynotes',
+            loadSidebar: true,
+            loadNavbar: true,
+            coverpage: true,
+            maxLevel: 5,
+            subMaxLevel: 4,
+            mergeNavbar: true,
+        }
+    </script>
+    <script>
+        window.$docsify = {
+            search: {
+                maxAge: 86400000,
+                paths: auto,
+                placeholder: '搜尋',
+                noData: '找不到結果',
+                depth: 4,
+                hideOtherSidebarContent: false,
+                namespace: 'mynotes',
+            }
+        }
+    </script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+</body>
+
+</html>
