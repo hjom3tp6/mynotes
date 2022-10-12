@@ -1,5 +1,6 @@
 <!-- docs/_sidebar.md -->
 
 * [home](README)
-* test
-  * [test](test/test)
+* [Array](array/array)
+* [test](test/test)
+* [hello](hello/hi)
