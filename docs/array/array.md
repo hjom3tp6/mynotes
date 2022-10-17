@@ -8,7 +8,6 @@ Array
 * [26. Remove Duplicates from Sorted Array](array/lc-26)
 * [27. Remove Element](array/lc-27)
 * [39. Combination Sum](array/lc-39)
-* [54. Spiral Matrix](array/lc-54)
 * [57. Insert Interval](array/lc-57)
 * [80. Remove Duplicates from Sorted Array II](array/lc-80)
 * [121. Best Time to Buy and Sell Stock](array/lc-121)
