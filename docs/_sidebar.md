@@ -1,6 +1,7 @@
 <!-- docs/_sidebar.md -->
 
-* [home](README)
+* [home](Home)
 * [Array](array/array)
-* [test](test/test)
-* [hello](hello/hi)
+* [Binary Search](binary-search/binary-search)
+* [Matrix](matrix/matrix)
+* [String](string/string)

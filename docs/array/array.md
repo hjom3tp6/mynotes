@@ -1,1 +1,23 @@
-# array
+Array
+===
+
+* [1. Two Sum](array/lc-1)
+* [15. 3Sum](array/lc-15)
+* [16. 3Sum Closest](array/lc-16)
+* [18. 4Sum](array/lc-18)
+* [26. Remove Duplicates from Sorted Array](array/lc-26)
+* [27. Remove Element](array/lc-27)
+* [39. Combination Sum](array/lc-39)
+* [54. Spiral Matrix](array/lc-54)
+* [57. Insert Interval](array/lc-57)
+* [80. Remove Duplicates from Sorted Array II](array/lc-80)
+* [121. Best Time to Buy and Sell Stock](array/lc-121)
+* [169. Majority Element](array/lc-169)
+* [189. Rotate Array](array/lc-189)
+* [217. Contains Duplicate](array/lc-217)
+* [229. Majority Element II](array/lc-229)
+* [238. Product of Array Except Self](array/lc-238)
+* [283. Move Zeroes](array/lc-283)
+* [287. Find the Duplicate Number](array/lc-287)
+* [435. Non-overlapping Intervals](array/lc-435)
+* [977. Squares of a Sorted Array](array/lc-977)

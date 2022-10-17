@@ -1,8 +1,3 @@
-# Docsify
+# mynotes
 
-> A magical documentation site generator.
-
-
-
-
-[start](/README.md)
+[Start](/home.md)
