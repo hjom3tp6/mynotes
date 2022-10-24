@@ -1,5 +1,5 @@
 <!-- docs/_sidebar.md -->
-* [home](README)
+* [Home](README)
 * [Array](array/array)
 * [Binary Search](binary-search/binary-search)
   * [Template](binary-search/template)
@@ -15,3 +15,4 @@
   * [1064. Fixed Point](binary-search/lc-1064)
 * [Matrix](matrix/matrix)
 * [String](string/string)
+* [Recursion](recursion/recursion)

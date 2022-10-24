@@ -1,5 +1,5 @@
 <!-- docs/_sidebar.md -->
-* [home](README)
+* [Home](README)
 * [Array](array/array)
   * [1. Two Sum](array/lc-1)
   * [15. 3Sum](array/lc-15)
@@ -23,3 +23,4 @@
 * [Binary Search](binary-search/binary-search)
 * [Matrix](matrix/matrix)
 * [String](string/string)
+* [Recursion](recursion/recursion)

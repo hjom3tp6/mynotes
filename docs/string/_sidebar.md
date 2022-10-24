@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-* [home](README)
+* [Home](README)
 * [Array](array/array)
 * [Binary Search](binary-search/binary-search)
 * [Matrix](matrix/matrix)
@@ -17,3 +17,4 @@
   * [409. Longest Palindrome](string/lc-409.md)
   * [424. Longest Repeating Character Replacement](string/lc-424.md)
   * [438. Find All Anagrams in a String](string/lc-438.md)
+* [Recursion](recursion/recursion)
